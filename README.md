@@ -5,6 +5,8 @@ This was a capstone project but I feel compelled to write about it.
 
 So at first the project was going swimmingly. All was done in good due time.
 
+-------------------------------------WARNING! EXPLETIVE CONTENT ------------------------------------------
+
 Then I got to a point where, after it was going well, I had unpacked the data from the included CSV. No problem! This should be easy enough... But, wait - There's a hint here:
 
       To get all the words/translation rows out as a list of dictionaries e.g. [{french_word: english_word}, {french_word2: english_word2}, {french_word3: english_word3}]
