@@ -25,7 +25,7 @@ order to fulfill the demand of unnecessary complexity - For naught! FUCK
 Anyway. The real problem was that, as opposed to the cheery and upbeat persuasion with which i had tackled the first section, that had basically evaporated on my acquiescing to 
 use a stupid as f*** data structure, leaving me feeling annoyed and just shit all round. Was also a massive WASTE OF TIME
 
-YEAH I WANNA SPEND 6 HOURS DOING THE IMPOSSIBLE, THEN FEELING BAD ABOUT THE WAY I DID IT, ONLY TO SEE THAT I SHOULD HAVE BEEN DOING THE THING I WANTED TO DO IN THE FIRST PLACE,
+YEAH I WANNA SPEND 4 HOURS DOING THE IMPOSSIBLE, THEN FEELING BAD ABOUT THE WAY I DID IT, ONLY TO SEE THAT I SHOULD HAVE BEEN DOING THE THING I WANTED TO DO IN THE FIRST PLACE,
 BUT DIDN'T BECAUSE OF A COMPLETELY AND UTTERLY POORLY WORDED HINT?
 
 FUCKING BOLLOCKS
